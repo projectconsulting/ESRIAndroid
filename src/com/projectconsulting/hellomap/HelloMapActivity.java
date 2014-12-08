@@ -20,6 +20,7 @@ public class HelloMapActivity extends Activity {
 
         
         
+        
      // Retrieve the map and initial extent from XML layout
      			mMapView = (MapView)findViewById(R.id.map);
      			// Add dynamic layer to MapView
