@@ -7,7 +7,6 @@ import android.os.Bundle;
 import com.esri.android.map.MapView;
 import com.esri.android.map.ags.ArcGISTiledMapServiceLayer;
 
-
 public class HelloMapActivity extends Activity {
 	
 	MapView mMapView;
